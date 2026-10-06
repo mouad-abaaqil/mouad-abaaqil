@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Mouad Abaaqil — Finance, Technology, Venture</title>
+  <desc id="desc">A dark, art deco-inspired skyline with warm gold accents and the words Building for the long term.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080A0D"/><stop offset=".55" stop-color="#111419"/><stop offset="1" stop-color="#080A0D"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#8C6B32" stop-opacity=".18"/><stop offset="1" stop-color="#8C6B32" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#D3B578" stroke-opacity=".045" stroke-width="1"/></pattern>
+    <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#826334"/><stop offset=".5" stop-color="#E1C27D"/><stop offset="1" stop-color="#826334"/></linearGradient>
+  </defs>
+  <rect width="1200" height="330" fill="url(#bg)"/>
+  <rect width="1200" height="330" fill="url(#grid)"/>
+  <ellipse cx="600" cy="10" rx="490" ry="330" fill="url(#glow)"/>
+  <g fill="#090B0E" stroke="#B99A5B" stroke-opacity=".24" stroke-width="1">
+    <path d="M0 252h60v-74h32v42h42v-96h28v-25h12v25h24v128h42v-88h30v-52h12v52h26v88h40v-58h25v-96h15v-34h8v34h22v154h42v-76h32v-42h12v42h32v76z"/>
+    <path d="M1200 252h-54v-99h-32v-42h-14v42h-24v99h-38v-64h-30v-92h-12v-31h-11v31h-20v156h-40v-84h-28v-46h-13v46h-24v84h-37v-68h-28v-111h-14v-28h-10v28h-20v179z"/>
+  </g>
+  <g fill="#C6A96A" opacity=".45">
+    <path d="M73 191h5v9h-5zm13 0h5v9h-5zm85-63h5v8h-5zm14 0h5v8h-5zm66 78h5v8h-5zm15 0h5v8h-5zm91-49h5v8h-5zm14 0h5v8h-5zm76 52h5v8h-5zm14 0h5v8h-5zM1131 165h5v9h-5zm-14 0h5v9h-5zm-83-39h5v8h-5zm-14 0h5v8h-5zm-75 55h5v8h-5zm-14 0h5v8h-5zm-81-63h5v8h-5zm-14 0h5v8h-5zm-72 67h5v8h-5zm-14 0h5v8h-5z"/>
+  </g>
+  <path d="M80 252h1040" stroke="url(#gold)" stroke-opacity=".75"/>
+  <path d="M450 75h300" stroke="url(#gold)" stroke-width="1.5"/>
+  <text x="600" y="132" text-anchor="middle" fill="#F0E9D8" font-family="Georgia, 'Times New Roman', serif" font-size="43" letter-spacing="8">MOUAD ABAAQIL</text>
+  <text x="600" y="171" text-anchor="middle" fill="#C6A96A" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="5">FINANCE · TECHNOLOGY · VENTURE</text>
+  <text x="600" y="215" text-anchor="middle" fill="#D4D0C6" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">BUILDING FOR THE LONG TERM</text>
+  <path d="M555 235h90" stroke="url(#gold)" stroke-width="1"/>
+  <text x="600" y="286" text-anchor="middle" fill="#8B8983" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="3">ENGINEERING IDEAS INTO REAL-WORLD SYSTEMS</text>
+</svg>

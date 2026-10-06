@@ -45,24 +45,24 @@ Repository cards show each project's description, language, stars, and forks. Se
 
 <table>
   <tr>
+    <td><a href="https://github.com/mouad-abaaqil/redline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=redline&theme=tokyonight&hide_border=true" alt="Redline repository card" /></a></td>
+    <td><a href="https://github.com/mouad-abaaqil/ABQ-Banking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=ABQ-Banking&theme=tokyonight&hide_border=true" alt="ABQ-Banking repository card" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mouad-abaaqil/inoxtradebot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=inoxtradebot&theme=tokyonight&hide_border=true" alt="inoxtradebot repository card" /></a></td>
     <td><a href="https://github.com/mouad-abaaqil/Croix-Rouge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=Croix-Rouge&theme=tokyonight&hide_border=true" alt="Croix-Rouge repository card" /></a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/mouad-abaaqil/TiltAlert"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=TiltAlert&theme=tokyonight&hide_border=true" alt="TiltAlert repository card" /></a></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/mouad-abaaqil/bbob-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=bbob-analysis&theme=tokyonight&hide_border=true" alt="bbob-analysis repository card" /></a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/mouad-abaaqil/CreditCardFraudDetection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=CreditCardFraudDetection&theme=tokyonight&hide_border=true" alt="CreditCardFraudDetection repository card" /></a></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/mouad-abaaqil/WaterQualityProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=WaterQualityProject&theme=tokyonight&hide_border=true" alt="WaterQualityProject repository card" /></a></td>
-    <td><a href="https://github.com/mouad-abaaqil/mouad-abaaqil.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=mouad-abaaqil.github.io&theme=tokyonight&hide_border=true" alt="Personal website repository card" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/mouad-abaaqil/WaterQualityProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=WaterQualityProject&theme=tokyonight&hide_border=true" alt="WaterQualityProject repository card" /></a></td>
     <td><a href="https://github.com/mouad-abaaqil/mouad-abaaqil.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=mouad-abaaqil.github.io&theme=tokyonight&hide_border=true" alt="Personal website repository card" /></a></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/mouad-abaaqil?tab=repositories">Explore all repositories →</a></td>
-    <td></td>
   </tr>
 </table>
 

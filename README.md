@@ -1,36 +1,86 @@
-<h1 align="center">Hi, I'm Mouad Abaaqil 👋</h1>
-
-<p align="center">
-  Computer engineering student building software across fintech, data, and real-world problem solving.
-</p>
-
-<p align="center">
-  <a href="https://abaaqil.me/">Website</a> ·
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Mouad+Abaaqil;Computer+Engineering+Student;Building+Fintech%2C+Data+%26+Software+Projects" alt="Hi, I'm Mouad Abaaqil — computer engineering student building fintech, data and software projects" />
+  <br />
+  <a href="https://abaaqil.me/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/mouad-abaaqil/">LinkedIn</a> ·
   <a href="mailto:abaaqilmouad@gmail.com">Email</a>
-</p>
+</div>
 
-## Featured projects
+## About me
 
-| Project | About | Stack |
-| --- | --- | --- |
-| [Redline](https://github.com/mouad-abaaqil/redline) | Open source freight tracker and black box for live position, ETA, theft detection, fleet relay, and last gasp. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111) |
-| [ABQ-Banking](https://github.com/mouad-abaaqil/ABQ-Banking) | Portfolio management system. | ![Finance](https://img.shields.io/badge/Finance-1B5E20?style=flat&logo=bankofamerica&logoColor=white) |
-| [inoxtradebot](https://github.com/mouad-abaaqil/inoxtradebot) | Trading platform with sentiment analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [WaterQualityProject](https://github.com/mouad-abaaqil/WaterQualityProject) | Python project to calculate and visualize water quality (WQI), developed during an internship at RAMSA. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+Computer engineering student interested in software development, data science, and finance. I build practical tools, from trading and portfolio projects to data analysis and open-source software.
+
+## Featured work
+
+<a href="https://github.com/mouad-abaaqil/redline"><img align="right" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=redline&theme=tokyonight&hide_border=true" alt="Redline repository card" /></a>
+
+### [Redline](https://github.com/mouad-abaaqil/redline)
+An open-source freight tracker and black box for live position, ETA, theft detection, fleet relay, and last gasp.
+
+**JavaScript · logistics · real-time tracking**
+
+<br clear="right" />
+
+<a href="https://github.com/mouad-abaaqil/ABQ-Banking"><img align="left" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=ABQ-Banking&theme=tokyonight&hide_border=true" alt="ABQ-Banking repository card" /></a>
+
+### [ABQ-Banking](https://github.com/mouad-abaaqil/ABQ-Banking)
+A portfolio management system.
+
+**Fintech · portfolio management**
+
+<br clear="left" />
+
+<a href="https://github.com/mouad-abaaqil/inoxtradebot"><img align="right" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=inoxtradebot&theme=tokyonight&hide_border=true" alt="inoxtradebot repository card" /></a>
+
+### [inoxtradebot](https://github.com/mouad-abaaqil/inoxtradebot)
+A trading platform with sentiment analysis.
+
+**Python · trading · sentiment analysis**
+
+<br clear="right" />
 
 ## All public projects
 
-| Project | Description | Built with |
-| --- | --- | --- |
-| [Croix-Rouge](https://github.com/mouad-abaaqil/Croix-Rouge) | Solidarity project for the French Red Cross. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [TiltAlert](https://github.com/mouad-abaaqil/TiltAlert) | TiltAlert project. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [bbob-analysis](https://github.com/mouad-abaaqil/bbob-analysis) | Comparative analysis of optimization algorithms on BBOB (EILCO ING2 INFO). | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) |
-| [inoxtradebot](https://github.com/mouad-abaaqil/inoxtradebot) | Trading platform with sentiment analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [mouad-abaaqil.github.io](https://github.com/mouad-abaaqil/mouad-abaaqil.github.io) | Personal website source. | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) |
-| [ABQ-Banking](https://github.com/mouad-abaaqil/ABQ-Banking) | Portfolio management system. | ![Project](https://img.shields.io/badge/Project-24292F?style=flat&logo=github&logoColor=white) |
-| [CreditCardFraudDetection](https://github.com/mouad-abaaqil/CreditCardFraudDetection) | Machine learning project for credit card fraud detection, from data exploration to model evaluation. | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
-| [WaterQualityProject](https://github.com/mouad-abaaqil/WaterQualityProject) | Water quality index analysis and visualization. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
-<p align="center">
-  <a href="https://github.com/mouad-abaaqil?tab=repositories">Browse all repositories →</a>
-</p>
+Repository cards show each project's description, language, stars, and forks. Select a card to open the code.
+
+<table>
+  <tr>
+    <td><a href="https://github.com/mouad-abaaqil/Croix-Rouge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=Croix-Rouge&theme=tokyonight&hide_border=true" alt="Croix-Rouge repository card" /></a></td>
+    <td><a href="https://github.com/mouad-abaaqil/TiltAlert"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=TiltAlert&theme=tokyonight&hide_border=true" alt="TiltAlert repository card" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mouad-abaaqil/bbob-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=bbob-analysis&theme=tokyonight&hide_border=true" alt="bbob-analysis repository card" /></a></td>
+    <td><a href="https://github.com/mouad-abaaqil/CreditCardFraudDetection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=CreditCardFraudDetection&theme=tokyonight&hide_border=true" alt="CreditCardFraudDetection repository card" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mouad-abaaqil/WaterQualityProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=WaterQualityProject&theme=tokyonight&hide_border=true" alt="WaterQualityProject repository card" /></a></td>
+    <td><a href="https://github.com/mouad-abaaqil/mouad-abaaqil.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=mouad-abaaqil.github.io&theme=tokyonight&hide_border=true" alt="Personal website repository card" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mouad-abaaqil/WaterQualityProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=WaterQualityProject&theme=tokyonight&hide_border=true" alt="WaterQualityProject repository card" /></a></td>
+    <td><a href="https://github.com/mouad-abaaqil/mouad-abaaqil.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mouad-abaaqil&repo=mouad-abaaqil.github.io&theme=tokyonight&hide_border=true" alt="Personal website repository card" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mouad-abaaqil?tab=repositories">Explore all repositories →</a></td>
+    <td></td>
+  </tr>
+</table>
+
+## GitHub dashboard
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mouad-abaaqil&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub profile statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouad-abaaqil&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages chart" />
+</div>
+
+### Recent activity
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouad-abaaqil&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" width="96%" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/mouad-abaaqil">More about my work on GitHub →</a>
+</div>
